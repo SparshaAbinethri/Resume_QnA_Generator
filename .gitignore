@@ -1,0 +1,23 @@
+# Personal / Sensitive files
+Sparsha_DataEngineer.pdf
+*.pdf
+
+# Model weights and large files
+*.bin
+*.pt
+*.safetensors
+*.h5
+mistral_resume_qna_lora/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter/Colab checkpoints
+.ipynb_checkpoints/
